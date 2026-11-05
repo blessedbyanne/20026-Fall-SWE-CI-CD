@@ -1,0 +1,24 @@
+{
+  "name": "20026-fall-swe-ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blessedbyanne/20026-Fall-SWE-CI-CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/blessedbyanne/20026-Fall-SWE-CI-CD/issues"
+  },
+  "homepage": "https://github.com/blessedbyanne/20026-Fall-SWE-CI-CD#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
